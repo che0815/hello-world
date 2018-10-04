@@ -42,3 +42,4 @@ f(x) that are consistent with the observed data (...)
 # Reading
 ![Gaussian Processes for Machine Learning](data/gpml_s2.png)
 ![Machine Learning: a Probabilistic Perspective](data/mlpp_s2.png)
+![An Introduction to Statistical Learning](data/ISL2.jpg)
