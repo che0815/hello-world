@@ -38,3 +38,6 @@ f(x) that are consistent with the observed data (...)
 - [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [CodeWars](https://www.codewars.com/)
+
+# Reading
+![Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/rwcover.gif)
