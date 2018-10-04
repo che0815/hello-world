@@ -13,5 +13,6 @@ f(x) that are consistent with the observed data (...)
     
     - *James, Witten, Hastie, Tibshirani:* [__An Introduction to Statistical Learning__](http://www-bcf.usc.edu/~gareth/ISL/index.html)
       - [lecture, video, slides](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+      - *Hastie, Tibshirani, Friedman:* [__The Elements of Statistical Learning: Data Mining, Inference, and Prediction.__](https://web.stanford.edu/~hastie/ElemStatLearn//download.html)
     - *Davidson-Pilon:* [__Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference__](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     
