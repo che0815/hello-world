@@ -12,5 +12,6 @@ f(x) that are consistent with the observed data (...)
   - *Bailey:* [__From both sides...__](http://katbailey.github.io/post/from-both-sides-now-the-math-of-linear-regression/)
     
     - *James, Witten, Hastie, Tibshirani:* [__An Introduction to Statistical Learning__](http://www-bcf.usc.edu/~gareth/ISL/index.html)
+      - [lecture, video, slides](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
     - *Davidson-Pilon:* [__Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference__](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     
