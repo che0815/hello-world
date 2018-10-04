@@ -40,4 +40,5 @@ f(x) that are consistent with the observed data (...)
 - [CodeWars](https://www.codewars.com/)
 
 # Reading
-![Gaussian Processes for Machine Learning](data/gpml.png)[__Gaussian Processes for Machine Learning__](http://www.gaussianprocess.org/gpml/)
+![Gaussian Processes for Machine Learning](data/gpml.png)
+![Machine Learning: a Probabilistic Perspective](data/mlpp.png)
