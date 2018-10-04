@@ -18,7 +18,7 @@
 - *Rasmussen, Williams:* [__Gaussian Processes for Machine Learning__](http://www.gaussianprocess.org/gpml/)
 
 ##### Gaussian Processes for Dummies by Katherine Bailey
-[Bailey's Blog Post](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
+[Bailey's Post](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
 (...) The GP approach, in contrast, is a non-parametric approach, in that it finds a distribution over the possible functions 
 f(x) that are consistent with the observed data (...)
 
