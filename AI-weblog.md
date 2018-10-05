@@ -48,7 +48,15 @@ f(x) that are consistent with the observed data (...)
   - The first thing you do: look at the data, do some plots, do not start with fancy-analysis
   - Scatter-plot matrix to check for obvious correlations
   - we would like to: predict unseen test cases, understand how input affects output, assess quality of prediction
-
+- Chapter 2: Statistical Learning
+  - epsilons are the irreducible errors which will stay and cannot be reduced
+  - smoothers: neighbor averaging, kernel, spline
+  - neighbor is impractical for dimensions > 2
+  - predictions accuracy vs interpretability, or interpretability vs. flexibility
+    - good vs over vs under-fit
+    - overfiting also fits the error into the model
+  - Bias-Variance Trade-off: here the user needs to make a choice
+  //StatsLearning Lect3 4c 110613//
 ### Neural Networks
 - *Wolchover for quantamagazine:* [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 - *Kriesel:* [Ein kleiner Überblick über Neuronale Netze](http://www.dkriesel.com/science/neural_networks)
