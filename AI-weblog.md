@@ -56,10 +56,14 @@ f(x) that are consistent with the observed data (...)
     - good vs over vs under-fit
     - overfiting also fits the error into the model
   - Bias-Variance Trade-off: here the user needs to make a choice
-  //StatsLearning Lect3 4c 110613//
+  - classification problems
 ### Neural Networks
 - *Wolchover for quantamagazine:* [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 - *Kriesel:* [Ein kleiner Überblick über Neuronale Netze](http://www.dkriesel.com/science/neural_networks)
+##### Book: Neuronale Netze selbst programmieren *by Tariq Rashid*
+[GitHub](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)  
+- [Training Database MNIST](http://yann.lecun.com/exdb/mnist/)
+- [*found](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 
 # Training
 - [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
