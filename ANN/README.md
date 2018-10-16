@@ -5,4 +5,4 @@
 based on [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
 
 ![Performance History](history.png)
-![Weights History](Input-hidden-weights-training.gif)
+![Weights History](Input-hidden-weights-training2.gif)
