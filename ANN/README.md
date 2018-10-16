@@ -4,5 +4,7 @@
 
 based on [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
 
+### MNIST Classification Performance
 ![Performance History](history2.png)
+### Wheight-Matrix over Time
 ![Weights History](Input-hidden-weights-training2.gif)
