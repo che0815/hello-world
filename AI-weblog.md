@@ -70,6 +70,9 @@ f(x) that are consistent with the observed data (...)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [CodeWars](https://www.codewars.com/)
 
+- [IPython books, by Cyrille Rossant](https://github.com/ipython-books)
+- [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 # Reading
 ![Gaussian Processes for Machine Learning](data/gpml_s2.png)
 ![Machine Learning: a Probabilistic Perspective](data/mlpp_s2.png)
